@@ -44,6 +44,6 @@
 * git clone: **Faz uma cópia do repositório remoto em nossa máquina. Cada repositório terá seu link único**
 
 ### Conflitos entre reposotório local e remoto
-git fetch: **faz o download das alterações no repositório remoto sem altera nada no local**
-git checkout origin: **muda para o ramo origin, que é o novo ramo que o comando *git fetch* cria, podendo assim ser possível visualizar as inconsistências entre os dois repositórios.**
-git pull: **uma vez resolvidos os conflitos, esse comando faz um merge nas duas remificações**
+* git fetch: **faz o download das alterações no repositório remoto sem altera nada no local**
+* git checkout origin: **muda para o ramo origin, que é o novo ramo que o comando *git fetch* cria, podendo assim ser possível visualizar as inconsistências entre os dois repositórios.**
+* git pull: **uma vez resolvidos os conflitos, esse comando faz um merge nas duas remificações**
